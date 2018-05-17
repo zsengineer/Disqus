@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-default/EffyisProjects_Kafka/lib/1_snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-default/EffyisProjects_Kafka/lib/kafka_2.9.2-0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-default/EffyisProjects_Kafka/lib/kafka-perf_2.9.2-0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-default/EffyisProjects_Kafka/lib/scala-compiler-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-default/EffyisProjects_Kafka/lib/scala-library-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/Java/jarfiles/EffyisAmpqTemplate-1.0.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibraries/slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibraries/slf4j-log4j12-1.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/a_kafka_2.9.2-0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/b_scala-compiler-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/c_scala-library-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/d_log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/e_slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/f_kafka-perf_2.9.2-0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/g_apache-rat-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/h_sbt-launch.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/jackson-annotations-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/jackson-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/jackson-core-2.4.0-rc3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/jackson-databind-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/jcs-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/l_metrics-annotation-3.0.0-c0c8be71.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/m_metrics-core-3.0.0-c0c8be71.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/n_zkclient-20120522.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/o_hadoop-consumer-0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/p_hadoop-producer-0.8-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/q_zookeeper-3.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/r_slf4j-log4j12-1.5.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/rabbitmq-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/s_mysql-connector-java-5.1.25-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/spring-data-hadoop-2.0.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zfareed/Documents/workspace-sts-3.2.0.RELEASE/kafkalibrariesII/sun.misc.BASE64Decoder.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
